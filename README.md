@@ -10,6 +10,6 @@
  » ⟫ Word list(s) <br>
  » ⟫ Functionality Files
  
-━━━━━━━━━━▲ Rules ▲━━━━━━━━━━━
+━━━━━━━━━━▲ RULES ▲━━━━━━━━━━━
 
 1. Editing word-lists are completely prohibited
